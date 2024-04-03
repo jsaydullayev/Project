@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentsTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7724ec16e49ec5dd5626f52f4c013795fb472aa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentsTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentsTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,12 @@
-﻿using StudentsTable.Class;
+﻿using StudentsTable.ApplicationDbContext;
+using StudentsTable.Class;
 using StudentsTable.Methodes;
 
 
- 
-        StudentsClass studentsClass = new StudentsClass();
-        HelperMethodes helperMethodes = new HelperMethodes();
+
+StudentsClass studentsClass = new StudentsClass();
+HelperMethodes helperMethodes = new HelperMethodes();
+AppDbContext appDbContext = new AppDbContext();
 
 while (true)
 {

@@ -10,11 +10,12 @@ namespace StudentsTable.ApplicationDbContext
 {
     public class AppDbContext : DbContext
     {
-        DbSet<StudentsClass> students {  get; set; }
+       public  DbSet<StudentsClass> students {  get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string path = "Server=ASUS; DataBase = Students Table; Integrated Security = true; TrustServerCertificate=True;";
             optionsBuilder.UseSqlServer(path);
         }
+
     }
 }

@@ -135,3 +135,4 @@ C:\Users\user\source\repos\Student\StudentsTable\StudentsTable\bin\Debug\net8.0\
 C:\Users\user\source\repos\Student\StudentsTable\StudentsTable\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\user\source\repos\Student\StudentsTable\StudentsTable\obj\Debug\net8.0\StudentsTable.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\Student\StudentsTable\StudentsTable\obj\Debug\net8.0\StudentsTable.csproj.CopyComplete
+C:\Users\user\source\repos\Student\StudentsTable\StudentsTable\obj\Debug\net8.0\StudentsTable.sourcelink.json
